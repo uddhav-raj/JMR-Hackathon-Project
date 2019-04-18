@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Nazla Bushra</origin>
+        <origin>Robert V. Rohli</origin>
+        <pubdate>2017</pubdate>
+        <pubtime>Unknown</pubtime>
+        <title>County-level drought indices The Palmer Drought Severity Index(PDSI)and Palmer Hydrological Drought Index(PHDI)</title>
+        <geoform>spreadsheet</geoform>
+        <onlink>https://doi.org/10.21429/C9X59C </onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Rohli, R.V.</origin>
+            <origin>Bushra, N.</origin>
+            <origin>Lam, N.S.N</origin>
+            <pubdate>2017</pubdate>
+            <title>Drought indices as drought predictors in the south-central USA</title>
+            <geoform>Publication (Other)</geoform>
+            <pubinfo>
+              <pubplace>Netherlands</pubplace>
+              <publish>SpringerLink</publish>
+            </pubinfo>
+            <onlink>doi:10.1007/s11069-016-2376-z</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Drought is a natural hazard that inflicts costly damage to the environment and human communities. Although ample literature exists on the climatological aspects of drought, little is known on whether existing drought indices can predict the damages and how different human communities respond and adapt to the hazard. This project examines (1) whether existing drought indices can predict the occurrence of drought events and their actual damages; (2) how the adaptive capacity (i.e., resilience) varies across space; and (3) what public outreach and engagement effort would be most effective for mitigation of risk and impacts. The study region includes all 503 counties in Arkansas, Louisiana, New Mexico, Oklahoma, and Texas. This data set was created to examine the first objective of the project. The Palmer Drought Severity Index (PDSI) and Palmer Hydrological Drought Index (PHDI) data, available only at the climate-division level, were downscaled into county-level indices over the 1975-2010 period. The drought damage data, acquired from the Spatial Hazards Events and Losses Database for the United States (SHELDUSTM), were tabulated for the same time period. Statistical correlations were conducted between drought indices and drought damages to test whether these indices accurately represent the drought damage in the study region. This data set contains the two county-level drought indices and drought damage for the period 1975-2010, which should be useful to future related studies.</abstract>
+      <purpose>
+The Palmer Drought Severity Index (PDSI) and Palmer Hydrological Drought Index (PHDI) are publicly available data, collected from Midwestern Regional Climate Center (MRCC), which mainly originate from National Oceanic and Atmospheric Administration (NOAA). The PDSI and PHDI are published weekly and aggregated into a monthly dataset by NOAA, at the climate divisional level. 
+Although several drought indices are available; which captures somewhat different aspects of drought conditions (Heim 2000), the Palmer Drought Severity Index (PDSI; Palmer 1965) and Palmer Hydrological Drought Index (PHDI; Karl 1986) are commonly used, highly regarded, and readily available metrics. The PDSI, a weekly index of long-term moisture conditions, is produced by NOAA’s Climate Prediction Center and is calibrated to ‘‘normal’’ conditions for its own subset of a state known as a climate division, with 0.0 representing average soil moisture conditions at that climate division for that time of year. Positive values represent above-normal moisture conditions for that location and negative values suggest below-normal soil moisture. Because the water balance calculations for PDSI include lags to take into account deep soil moisture conditions, PDSI is often considered in many applications a reasonable and versatile index of medium-term moisture. For evaluating longer-term hydrological conditions, the PHDI may prove more useful, because it's even longer-lagged response to changes in moisture conditions may better reflect the changes in groundwater availability and reservoir supplies that would be characteristic of drought impacts on communities’ long-term water supply and demand (Guttman 1991). These two indices remain the most widely used and cited measures of drought. The versatility and availability of the PDSI and PHDI on a near-real-time basis make these two indices most desirable for use by environmental planners. For the study, these monthly data are extracted for the 45 climate divisions in the five-state region over the 1975-2010 period.
+</purpose>
+      <supplinf>
+References:
+
+Guttman NB (1991) A sensitivity analysis of the Palmer Hydrologic Drought Index. Water Resour Bull 27:797–807
+
+Heim RR Jr (2000) Drought indices: a review. In: Wilhite DA (ed) Drought: a global assessment (Routledge Hazards and Disasters Series, volume 1). Routledge, London, pp 159–167
+
+Karl TR (1986) The sensitivity of the Palmer Drought Severity Index and Palmer’s Z-index to their calibration coefficients including potential evapotranspiration. J Clim Appl Meteorol 25:77–86
+
+Palmer WC (1965) Meteorologic drought. U.S. Weather Bureau Research Paper No. 45, 58 pp
+</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19750101</begdate>
+          <begtime>Unknown</begtime>
+          <enddate>20101231</enddate>
+          <endtime>Unknown</endtime>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Arkansas, Louisiana, New Mexico, Oklahoma, Texas</descgeog>
+      <bounding>
+        <westbc>-109.0513</westbc>
+        <eastbc>-89.0218</eastbc>
+        <northbc>25.8456</northbc>
+        <southbc>37.0015</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Drought damage</themekey>
+        <themekey>Palmer Drought Severity Index</themekey>
+        <themekey>Palmer Hydrologic Drought Index</themekey>
+        <themekey>Statistical Downscaling</themekey>
+        <themekey>SHELDUS</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Arkansas</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Texas</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <native>Environment as of Metadata Creation: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1 (Build 4959) Service Pack N/A (Build N/A)</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>Not Applicable</logic>
+    <complete>Not Applicable</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has not been conducted.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.
+</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Separate The areal interpolation method (ESRI 2012) in the “Geostatistical Analyst” extension in ArcGIS 10.1 (Environmental System Research Institute (ESRI) 2012) was used for statistical downscaling of the climate division-based PDSI and PHDI to the county level for each of the 432 months of analysis. Areal interpolation reaggregates data from one set of polygons (the source polygons) to another (the target polygons) and different approaches can be used to perform this task (Goodchild and Lam 1980; Lam 1983). The ArcGIS extension uses Kriging theory to conduct areal interpolation (Oliver and Webster 1990; Krivoruchko et al. 2011; Stein 2012). Downscaling drought indices from climate divisions to counties is a two-step process. In the first step, a smooth prediction surface was created from the attribute data (drought index values) input for each climate division. In the second step, this prediction surface of drought indices was re-aggregated to the county-level feature class. To create an accurate prediction surface with “Geostatistical Wizard,” the covariance curve needs to be fitted. Therefore, lag size value, type parameters (K-Bessel and stable), and lattice spacing values were selected carefully to fit the model optimally. The mathematical description of the interpolation procedure is described by e data files (text files) were output for each object variable and climate simulation in the RiverWare model. A python script was then used to combine the data from each simulation into one file for each object (Krivoruchko et al. 2011). Predictions and standard errors were calculated for all the target polygons. To generate results with at least 90% of the empirical covariances falling within the 90 % confidence intervals, a covariance model was specified by fitting a proper covariance curve within the Kriging framework.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Attribute Table</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Unique Identifier</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>505</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>The record ID was generated by ArcGIS.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5001</rdommin>
+            <rdommax>48507</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>County</attrlabl>
+        <attrdef>A political and administrative division of a state, providing certain local governmental services.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>A political and administrative division of a state, providing certain local governmental services.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State</attrlabl>
+        <attrdef>State</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Arkansas</edomv>
+            <edomvd>South Central State</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Louisiana</edomv>
+            <edomvd>South Central State</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>New Mexico</edomv>
+            <edomvd>South Central State</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Oklahoma</edomv>
+            <edomvd>South Central State</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>South Central State</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Year</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1975</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Month</attrlabl>
+        <attrdef>Month</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>12</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Date</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PDSI</attrlabl>
+        <attrdef>Palmer Drought Severity Index</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-8.610854088</rdommin>
+            <rdommax>11.32814217</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PHDI</attrlabl>
+        <attrdef>Palmer Hydrologic Drought Index</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-7.522738434</rdommin>
+            <rdommax>11.36142029</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>The entity and attribute information provided here describes the tabular data associated with the data set. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the data set.</eaover>
+      <eadetcit>The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Information products released to the public contain no statements that suggest that the product does not meet USGS standards of scientific excellence, integrity, and objectivity. Certain information statements or disclaimers not related to scientific quality may be used, such as those regarding nonendorsement of commercial products and services, nondisclosure of peer reviews, notice of copyrighted information, and preliminary data, databases and computer programs.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Spreadsheet</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.21429/C9X59C </networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None. No fees are applicable for obtaining the data set.</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20170104</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Nina Lam</cntper>
+          <cntorg>Department of Environmental Sciences</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>Department of Environmental Sciences, Louisiana State University</address>
+          <city>Baton Rouge</city>
+          <state>LA</state>
+          <postal>70803</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>225-578-6197</cntvoice>
+        <cntemail>nlam@lsu.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
